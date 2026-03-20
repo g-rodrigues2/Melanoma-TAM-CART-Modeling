@@ -2,7 +2,7 @@
 
 This notebook contains the analytical computations, numerical simulations, and sensitivity analyses associated with an ordinary differential equation (ODE) model describing the interaction among tumor cells, tumor-associated macrophages (TAMs), and CAR T-cells in cutaneous melanoma.
 
-You can see the codes on this [page](https://g-rodrigues2.github.io/melanoma_CART_TAM.html).
+You can see the codes on this [page](https://g-rodrigues2.github.io/Melanoma-Dynamics-Repository/melanoma_CART_TAM.html).
 
 The model is used to investigate qualitative and quantitative aspects of the system dynamics, including equilibrium behavior, stability changes, phase portraits, treatment-response profiles, and parameter sensitivity.
 
